@@ -1,0 +1,18 @@
+DN,objectClass,SamAccountName,
+
+"cn=sec1,ou=secretariat,ou=management,dc=dommtn,dc=bricoflex,dc=fr",user,sec1
+"cn=sec2,ou=secretariat,ou=management,dc=dommtn,dc=bricoflex,dc=fr",user,sec2
+"cn=placo1,ou=placoplatre,ou=gros oeuvre,dc=dommtn,dc=bricoflex,dc=fr",user,placo1
+"cn=placo2,ou=placoplatre,ou=gros oeuvre,dc=dommtn,dc=bricoflex,dc=fr",user,placo2
+"cn=placo3,ou=placoplatre,ou=gros oeuvre,dc=dommtn,dc=bricoflex,dc=fr",user,placo3
+"cn=iso1,ou=isolation,ou=gros oeuvre,dc=dommtn,dc=bricoflex,dc=fr",user,iso1
+"cn=iso2,ou=isolation,ou=gros oeuvre,dc=dommtn,dc=bricoflex,dc=fr",user,iso2
+"cn=charp1,ou=charpente,ou=gros oeuvre,dc=dommtn,dc=bricoflex,dc=fr",user,charp1
+"cn=charp2,ou=charpente,ou=gros oeuvre,dc=dommtn,dc=bricoflex,dc=fr",user,charp2
+"cn=elec1,ou=electricite,ou=second oeuvre,dc=dommtn,dc=bricoflex,dc=fr",user,elec1
+"cn=elec2,ou=electricite,ou=second oeuvre,dc=dommtn,dc=bricoflex,dc=fr",user,elec2
+"cn=plomb1,ou=plomberie,ou=second oeuvre,dc=dommtn,dc=bricoflex,dc=fr",user,plomb1
+"cn=plomb2,ou=plomberie,ou=second oeuvre,dc=dommtn,dc=bricoflex,dc=fr",user,plomb2
+"cn=outil1,ou=outillage,ou=second oeuvre,dc=dommtn,dc=bricoflex,dc=fr",user,outil1
+"cn=deco1,ou=decoration,ou=second oeuvre,dc=dommtn,dc=bricoflex,dc=fr",user,deco1
+"cn=deco2,ou=decoration,ou=second oeuvre,dc=dommtn,dc=bricoflex,dc=fr",user,deco2
