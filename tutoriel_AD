@@ -1,4 +1,26 @@
 
 1- Partager les dossiers
 1.1- Tout le monde - Controle total
-2- 
+
+2- Securisation Ressources
+2.2- Ressources -> casser heritage -> supprimer ACE Utilisateur -> Rajouter DL
+/!\ Lecture des dossiers mère
+
+3- GPO
+3.1- Gestion de stratégie de groupe
+  Net use W: \\DCMTN.dommtn.bricoflex.fr\bricoflex /persistent:no
+3.2- Ciblage sur la GPO
+  Propriete>Comunun > activé le ciblage > groupe de sécurité > GG_ 
+  
+ 4- Delegation
+ 4.1 GG_Delegation 
+ 
+ 5- MMC
+ 5.1- Personnalisation
+ 5.1.1- Ajouter un composant
+ 5.1.2- Brico > Nouvelle fênetre a partir d'ici
+ 5.1.3- vue de la liste des tâches 
+ 5.1.4- Affichage > personnalisé
+ 5.1.5- Fichier > Option > Mode utilisateur - Fenetre unique - Limité
+        Décocher L'utilisateur peut personnaliser les vues
+ Filtrer que les utilisateurs 
