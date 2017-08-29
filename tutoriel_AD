@@ -24,3 +24,10 @@
  5.1.5- Fichier > Option > Mode utilisateur - Fenetre unique - Limité
         Décocher L'utilisateur peut personnaliser les vues
  Filtrer que les utilisateurs 
+ 
+6- GPO / Cosmo
+6.1- Dossier partagé  
+6.2- Strategie > Déploiement logiciel > chemin UNC > Attribué
+
+7- Politique de Securité
+7.1- Default Domain Policy
