@@ -1,0 +1,13 @@
+DSADD OU "OU=management,DC=dommtn,DC=bricoflex,DC=fr"
+DSADD OU "OU=secretariat,OU=management,DC=dommtn,DC=bricoflex,DC=fr"
+DSADD OU "OU=Direction,OU=management,DC=dommtn,DC=bricoflex,DC=fr"
+DSADD OU "OU=gros oeuvre,DC=dommtn,DC=bricoflex,DC=fr"
+DSADD OU "OU=placoplatre,OU=gros oeuvre,DC=dommtn,DC=bricoflex,DC=fr"
+DSADD OU "OU=isolation,OU=gros oeuvre,DC=dommtn,DC=bricoflex,DC=fr"
+DSADD OU "OU=charpente,OU=gros oeuvre,DC=dommtn,DC=bricoflex,DC=fr"
+DSADD OU "OU=second oeuvre,DC=dommtn,DC=bricoflex,DC=fr"
+DSADD OU "OU=electricite,OU=second oeuvre,DC=dommtn,DC=bricoflex,DC=fr"
+DSADD OU "OU=plomberie,OU=second oeuvre,DC=dommtn,DC=bricoflex,DC=fr"
+DSADD OU "OU=decoration,OU=second oeuvre,DC=dommtn,DC=bricoflex,DC=fr"
+DSADD OU "OU=outillage,OU=second oeuvre,DC=dommtn,DC=bricoflex,DC=fr"
+pause
