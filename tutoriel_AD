@@ -38,3 +38,17 @@
 
 7- Politique de Securité
 7.1- Default Domain Policy
+
+8- Publication Imprimante
+8.1- Sur DC - Ajout d'une nouvelle imprimante:
+    Ajouter une imprimante local - Démarrer / Périphérique et Imprimante / Ajouter une Imprimante / Ajouter une imprimante local
+8.2- Sur W7 - : 
+    Demarer / Périphérique et imprimantes / Ajouter une imprimante / Ajouter une imprimante réseau
+8.3-
+
+9- CSVDE 
+9.1 csvde -i -f /xxxxx
+
+10-Recherche et requetage
+10.1- Centre d'administration Active Directory > Recherche globale > LDAP
+10.2- (title=*Adj*)
